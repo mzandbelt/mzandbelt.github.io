@@ -80,12 +80,14 @@ Onderweg was ik te druk met rennen en opletten op de gladheid om foto’s van he
 Aanzettend voor het laatste stukje van de 3km richting finish nog even een vrolijke blik in de lens van een fotograaf geworpen en hop daar zat het er al weer op. Volgende keer zal het minder glad zijn en kan ik misschien onderweg iets meer om me heen kijken.
 
 <img class="m_9019239892216008530gmail-aligncenter m_9019239892216008530gmail-size-large m_9019239892216008530gmail-wp-image-761 CToWUd" src="https://ci3.googleusercontent.com/proxy/pLbzgEep5kylSExRc1RY0fsAwjrzpvRYV7nzCC5mJ96zhLtV2onc-O8hF4Fp3XTv1GOTrkFRLbTj1G2ykMcKI9YdD4vYdOmKziVJri594sKpiUsVspnmqR_27pskyavnIFnbkNm1II69j8aq=s0-d-e1-ft#http://www.live2befit.nl/wp-content/uploads/2017/01/IMG_20170108_095456142-253x450.jpg" alt="" width="253" height="450" />
-
+<div class="m_9019239892216008530entry-content">
+  
 Binnen weer warm aangekleed en gelijk maar eens even gebruik gemaakt van de gelegenheid om de speciale Parklopen <em>smoothie</em> testen. Mijn oordeel: prima!
 
 Omdat ik, mede op advies van de organisatie, met het OV was gekomen, ben ik maar kort blijven hangen na afloop. Vanuit de regio Apeldoorn/Beekbergen word je binnen 20 minuten voor de poort van het Sonsbeek park afgezet aan de Apeldoornseweg, ook op zondagochtend. En even zo snel ben je ook weer thuis, rijdt tweemaal per uur. Parklopen Sonsbeek is daarnaast natuurlijk met alle stads- en streekbuslijnen die eindigen op het centraal station (en dus ook met de trein) via het OV prima bereikbaar.
 
 <img class="m_9019239892216008530gmail-aligncenter m_9019239892216008530gmail-size-large m_9019239892216008530gmail-wp-image-762 CToWUd" src="https://ci6.googleusercontent.com/proxy/ThRICzKiOdSVH41Omd6aVAKVMvemluydOz9Cqr_HUSUzbjNUrVAThDUNe9HxIOWc67DtWDJSV5GAyKScjys5kSII8FvTX5gGuWsdVF8C8TknqdJxDWqq6SSkypQ7uCso416l1Q7EV4OKKDYICmDbCQ=s0-d-e1-ft#http://www.live2befit.nl/wp-content/uploads/2017/01/IMG_20170108_100829560_HDR-253x450.jpg" alt="" width="253" height="450" />
+<div class="m_9019239892216008530entry-content">
 
 Voor de <a href="http://www.parklopen.nl/parklingezegen/" target="_blank" rel="noopener">Parkloop in Linegzegen</a> ben je aangewezen op de trein als je daar per OV naar toe wilt. Station Arnhem-Zuid (2km) en Elst (2.5km) zijn het dichtstbij gelegen t.o.v. de startlocatie.Qua afstand natuurlijk goed voor een rustige warming-up respectievelijk cooling down naar en van het evenement.
 
@@ -95,6 +97,7 @@ Check nog even: <a href="http://www.parklopen.nl/parksonsbeek/2016/12/01/10-rede
 
 Van mij mag de organisatie daarom, net zoals dat in Engeland gebruikelijk is, bij de voorbespreking naast uitleg voor nieuwelingen, een grap en de huishoudelijke mededelingen elke keer standaard, nog voor de warming-up, niet als een “moetje” maar juist welgemeend een collectief applaus vragen voor de vrijwilligers die die dag het evenement mogelijk maken.
 <strong>
+  <br><br>
 Bij deze dus van mijn kant nog even een dikke duim omhoog voor het vrijwilligers team van Parklopen Sonsbeek. Prima!</strong>
 
 </div>
