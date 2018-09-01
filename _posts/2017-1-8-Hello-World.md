@@ -1,13 +1,21 @@
 ---
 layout: post
 title: Parklopen Sonsbeek de proef op de som
-excerpt: Het fenomeen kende ik vanuit Engeland alwaar (net als in een aantal andere landen) wekelijks op heel veel locaties verdeeld over dat (ei)land een zogenaamde parkrun wordt georganiseerd door vrijwilligers. Deelname is gratis, en als je je deelname en tijd wilt registreren hoef je je maar eenmalig aan te melden bij de landelijke organisatie. Je krijgt dan een deelnemersnummer gekoppeld aan een barcode en webaccount. Alles wat je hoeft te doen om aan één van de honderden wekelijkse parklopen mee te doen in Engeland is op komen dagen en je barcode meenemen.
+excerpt: >-
+  Het fenomeen kende ik vanuit Engeland alwaar (net als in een aantal andere
+  landen) wekelijks op heel veel locaties verdeeld over dat (ei)land een
+  zogenaamde parkrun wordt georganiseerd door vrijwilligers. Deelname is gratis,
+  en als je je deelname en tijd wilt registreren hoef je je maar eenmalig aan te
+  melden bij de landelijke organisatie. Je krijgt dan een deelnemersnummer
+  gekoppeld aan een barcode en webaccount. Alles wat je hoeft te doen om aan één
+  van de honderden wekelijkse parklopen mee te doen in Engeland is op komen
+  dagen en je barcode meenemen.
 published: true
 ---
 <div class="m_9019239892216008530entry-content">
 
 <img class="m_9019239892216008530gmail-aligncenter m_9019239892216008530gmail-size-large m_9019239892216008530gmail-wp-image-740 CToWUd a6T" src="https://ci5.googleusercontent.com/proxy/nKtd6eYPOVO7s3J4tt8byhy-AQMVk09mwzH4S6877YdkB51LtpbLGvubfi4HehLxW2XKKkcvNkCwsZC2HT8I9HDO9nvVVIUhvH07xvGEY3JlEgZexLQC8YsHiRb3XXmig7Oaqdowlcx_dMKEd25W6g=s0-d-e1-ft#http://www.live2befit.nl/wp-content/uploads/2017/01/IMG_20170108_090019695_HDR-450x253.jpg" alt="" width="450" height="253" />
-
+<br><br>
 Het fenomeen kende ik vanuit Engeland alwaar (net als in een aantal andere landen) wekelijks <a href="https://www.parkrun.org.uk/" target="_blank" rel="noopener">op heel veel locaties verdeeld over dat (ei)land een zogenaamde <em>parkrun</em> wordt georganiseerd</a> door vrijwilligers. Deelname is gratis, en als je je deelname en tijd wilt registreren hoef je je maar eenmalig aan te melden bij de landelijke organisatie. Je krijgt dan een deelnemersnummer gekoppeld aan een barcode en webaccount. Alles wat je hoeft te doen om aan één van de honderden wekelijkse parklopen mee te doen in Engeland is op komen dagen en je barcode meenemen. Veel mensen gebruiken daar een geplastificeerde versie van een uitgeprinte barcode, formaat bankpasje, voor. In Engeland loop je 5km.
 
 <img class="m_9019239892216008530gmail-aligncenter m_9019239892216008530gmail- m_9019239892216008530gmail-wp-image-742 CToWUd a6T" src="https://ci3.googleusercontent.com/proxy/u6fj2oYTVlu8Fq77pOQEKb04ISJM7gxUkcnF2ssbzbB4gN89tPLamMw1lGhi94PapfYy6sPNDLfGdijN2GqgmxvSc1G6QWv5LGvxls1lMjXSjqJxbPjSelASFSQj=s0-d-e1-ft#http://www.live2befit.nl/wp-content/uploads/2017/01/parkrun-450x253.png" alt="" width="387" height="387" />
