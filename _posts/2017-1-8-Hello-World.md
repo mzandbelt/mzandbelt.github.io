@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parklopen Sonsbeek: de proef op de som
+title: Parklopen Sonsbeek de proef op de som
 ---
 
 <div id="m_9019239892216008530gmail-content" class="m_9019239892216008530gmail-site-content">
