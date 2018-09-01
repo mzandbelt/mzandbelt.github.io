@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parklopen Sonsbeek #13: de proef op de som
+title: Parklopen Sonsbeek: de proef op de som
 ---
 
 <div id="m_9019239892216008530gmail-content" class="m_9019239892216008530gmail-site-content">
@@ -100,16 +100,3 @@ Bij deze dus van mijn kant nog even een dikke duim omhoog voor het vrijwilligers
 </div>
 </article></div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
