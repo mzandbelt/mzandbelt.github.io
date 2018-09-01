@@ -101,5 +101,5 @@ Van mij mag de organisatie daarom, net zoals dat in Engeland gebruikelijk is, bi
 Bij deze dus van mijn kant nog even een dikke duim omhoog voor het vrijwilligers team van Parklopen Sonsbeek. Prima!</strong>
 
 </div>
-</article></div>
+
 </div>
