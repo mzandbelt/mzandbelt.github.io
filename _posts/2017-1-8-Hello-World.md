@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Parklopen Sonsbeek de proef op de som
+excerpt: Het fenomeen kende ik vanuit Engeland alwaar (net als in een aantal andere landen) wekelijks op heel veel locaties verdeeld over dat (ei)land een zogenaamde parkrun wordt georganiseerd door vrijwilligers. Deelname is gratis, en als je je deelname en tijd wilt registreren hoef je je maar eenmalig aan te melden bij de landelijke organisatie. Je krijgt dan een deelnemersnummer gekoppeld aan een barcode en webaccount. Alles wat je hoeft te doen om aan één van de honderden wekelijkse parklopen mee te doen in Engeland is op komen dagen en je barcode meenemen.
 published: true
 ---
 <div class="m_9019239892216008530entry-content">
