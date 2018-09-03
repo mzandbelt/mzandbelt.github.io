@@ -4,12 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Inderdaad kun je een blog als deze in een minuutje opzetten m.b.v. een [Github](https://github.io) account en [Jekyll Now](http://www.jekyllnow.com/).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Introducing [Jekyll Now](http://www.jekyllnow.com/)
 
-### Contact me
+Jekyll is a static site generator that's perfect for GitHub hosted blogs.
 
-[email@domain.com](mailto:email@domain.com)
+Jekyll Now makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
+
+    You don't need to touch the command line
+    You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
+    You don't need to install runtime dependancies like markdown processors, Pygments, etc
+    It's easy to try out, you can just delete your forked repository if you don't like it
+    In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
+
+Create your blog in 30 seconds!
+
+### Contact
+
+Je vindt me op [Twitter](https://twitter.com/zandbelt) en vooral op [Mastodon]{https://mastodon.social/web/accounts/10217) 
