@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Inderdaad kun je een blog als deze in een minuutje opzetten m.b.v. een [Github](https://github.io){:target="_blank"} account en [Jekyll Now](http://www.jekyllnow.com/){:target="_blank"}.
+Inderdaad kun je een blog als deze in een minuutje opzetten m.b.v. een [GitHub](https://github.io){:target="_blank"} account en [Jekyll Now](http://www.jekyllnow.com/){:target="_blank"}.
 
 ### More Information
 
