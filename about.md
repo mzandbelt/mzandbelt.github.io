@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Inderdaad kun je een blog als deze in een minuutje opzetten m.b.v. een [Github](https://github.io) account en [Jekyll Now](http://www.jekyllnow.com/).
+Inderdaad kun je een blog als deze in een minuutje opzetten m.b.v. een [Github](https://github.io){:target="_blank"} account en [Jekyll Now](http://www.jekyllnow.com/){:target="_blank"}.
 
 ### More Information
 
-Introducing [Jekyll Now](http://www.jekyllnow.com/)
+Introducing [Jekyll Now](http://www.jekyllnow.com/){:target="_blank"}
 
 Jekyll is a static site generator that's perfect for GitHub hosted blogs.
 
@@ -24,4 +24,4 @@ Create your blog in 30 seconds!
 
 ### Contact
 
-Je vindt me op [Twitter](https://twitter.com/zandbelt) en vooral op [Mastodon]{https://mastodon.social/web/accounts/10217) 
+Je vindt me op [Twitter](https://twitter.com/zandbelt){:target="_blank"} en vooral op [Mastodon](https://mastodon.social/web/accounts/10217){:target="_blank"} 
