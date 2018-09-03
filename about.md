@@ -18,7 +18,8 @@ Jekyll Now makes it easier to create a Jekyll blog, by eliminating a lot of the 
     You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
     You don't need to install runtime dependancies like markdown processors, Pygments, etc
     It's easy to try out, you can just delete your forked repository if you don't like it
-    In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
+    In a few minutes you'll be set up with a minimal, responsive blog just like this one
+    —giving you more time to spend on making your blog awesome!
 
 Create your blog in 30 seconds!
 
