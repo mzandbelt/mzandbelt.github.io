@@ -24,4 +24,4 @@ Create your blog in 30 seconds!
 
 ### Contact
 
-Je vindt me op [Twitter](https://twitter.com/zandbelt){:target="_blank"} en vooral op [Mastodon](https://mastodon.social/web/accounts/10217){:target="_blank"} 
+Je vindt me op [Twitter](https://twitter.com/zandbelt){:target="_blank"} en vooral op [Mastodon](https://mastodon.social/@zandbelt){:target="_blank"} 
