@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: ''
+In januari 2017 schreef ik over mijn eerste ervaring met  [Parklopen Sonsbeek](https://mzandbelt.github.io/Parklopen-Sonsbeek/) en dat ik hoopte "dat er geleidelijk aan steeds meer locaties in Nederland zullen volgen waar je kunt gaan Parklopen". 
 ---
 ## Parklopen Brinkgreven de proef op de som
 
