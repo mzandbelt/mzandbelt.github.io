@@ -19,3 +19,15 @@ Uiteindelijk vond ik de ondersteuning die ik zocht uitgerekend in het clubhuis v
 Op een speeddate-avond met diverse sport- en recreatieve verenigingen en instanteis, welzijnsorganisaties en wethouder en ambtenaar van de gemeente Deventer konden alle aanwezigen op een bordje schrijven wat ze zochten en wat ze een ander te beiden hadden. Mijn parklopen plan daar dus op een bordje geschreven en een uurtje later BINGO. Hoewle ik een drietal enthousiaste gesprekken voerde die avond was het eerste duo dat direct nadat het date-n geopend werd met een vrolijke lach op me afstormde een afvaardiging van de Dimence Groep die grotendeels zetelt op het prachtige park Brinkgreven en ik, zelf werkzaam in het naastgelegen Deventer Ziekenhuis kortweg ook als mijn "buren" zou kunnen beschrijven. De animo en hulp was dichterbij dan ooit!
 
 Vervolgafspraken volgden, met eerst een breder gezelschap vanuit meerdere geledingen, later een kleiner gezelschap en nog later weer een breder gezelschap, maar enige aarzeling bleef tenslotte toch in de lucht hangen, alle enthousiasme ten spijt. Wie ging deze kar nu echt trekken?
+
+In de tussentijd voorzag de ambassadrice van de AtletiekUnie ons van praktische informatie en ook voorbeelden van de reeds bestaande Parklopen in Gelderland.
+
+Net op het moment dat ik na een maand of tien dacht het hele voornemen maar te laten voor wat het was belde de projectleider namens de Dimence Groep mij op. "Michiel, noteer maar vast, zaterdag 8 september, tijdens Open Monumentendag, testloop parklopen op park Brinkgreven".
+Uh..huh..wat?! :-)
+
+Vlak voor de zomervakantie snel aan de slag met de eerste PR, offline en online, social media, flyers, posters en inschrijfformulieren via de AtletiekUnie, dan eerst allemaal zomervakantie dan daarna een race en snelle eindsprint naar zaterdag 8 september.
+
+Als het dan eenmaal zover is, kan je na maanden die bijna roerloos voorbij gingen toch ineens (gezonde) spanning krijgen. Ik wilde dit toch ook zo graag? En nu is er geen weg terug, nu gaan we het ook dadawerkelijk gewoon DOEN!
+
+Hoe de grote dag, zaterdag 8 september 2018, verliep?
+Daarover in het volgende blogbericht meer, met mooie foto's voor een sfeerimrpessie.
