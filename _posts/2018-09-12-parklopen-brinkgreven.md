@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+excerpt: ''
 ---
 ## Parklopen Brinkgreven de proef op de som
 
