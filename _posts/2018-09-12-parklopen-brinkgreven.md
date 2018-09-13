@@ -12,6 +12,8 @@ In januari 2017 schreef ik over mijn eerste ervaring met  [Parklopen Sonsbeek](h
 
 In dit blog vertel ik wat er in het afgelopen jaar aan vooraf ging om daadwerkelijk tot een eerste testloop van het concept parklopen in park Brinkgreven te Deventer te komen. Onlangs was het zover: op zaterdag 8 september 2018 zijn we voor het eerst gaan parklopen in Deventer. Hoe dat uitpakte en hoe nu verder, daarover zal ik in een volgend blogbericht schrijven. 
 
+<ing src="https://scontent.fams1-1.fna.fbcdn.net/v/t1.0-9/38712103_987794528060865_1586187050829217792_n.png?_nc_cat=0&oh=c1254ac992bd81454373060f1d56d406&oe=5BEED93B">
+
 So You Think You Can Organize..
 
 Al ben ik nog zo enthousiast over Parkrun en Parklopen, in je eentje kun je natuurlijk geen "feestje" bouwen. Wel natuurlijk al vast wat rondneuzen in Deventer en op de stadsplattegrond en een beetje wegdromen met visioenen over wat als er daar en daar een parkloop gehouden zou worden.
