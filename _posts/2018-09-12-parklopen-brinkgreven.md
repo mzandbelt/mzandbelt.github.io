@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   In januari 2017 schreef ik over mijn eerste ervaring met Parklopen Sonsbeek en
